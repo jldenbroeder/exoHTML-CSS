@@ -23,6 +23,18 @@ th {
 	font-size: 14px;
 	color: #FFF;
 }
-.tr-fille-clair{
-  
+.ligne{
+  font-family: Verdana, Geneva, sans-serif;
+}
+.fille-clair {
+	background-color: #FCF;
+}
+.fille-fonce {
+	background-color: #96F;
+}
+.garcon-clair {
+	background-color: #6F9;
+}
+.garcon-fonce {
+	background-color: #090;
 }
