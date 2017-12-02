@@ -1,0 +1,28 @@
+@keyframes animation1 {
+    0% {
+        transform: translateX(-400px);
+    }
+    100% {
+        transform: translateX(2000px);
+    }
+
+}
+
+div
+{
+    width: 200px;
+    height: 200px;
+    background-color: rgb(22, 62, 131);
+    animation: animation1 2s;
+    animation-iteration-count: infinite;
+    animation-direction: alternate;
+}
+th {
+  background-color: #2f2f2f;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	color: #FFF;
+}
+.tr-fille-clair{
+  
+}
